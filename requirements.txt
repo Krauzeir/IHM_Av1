@@ -1,0 +1,6 @@
+face_recognition
+cmake
+opencv-python
+simpy
+faker
+behave

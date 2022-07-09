@@ -1,0 +1,35 @@
+{
+    "versao": "0.1",
+    "fichas": [
+        {
+            "nome": "?",
+            "idade": 0,
+            "status": "?",
+            "endereco": "?", 
+            "fotos": [
+                "faces/bruna1.jpg",
+                "faces/bruna2.jpg",
+                "faces/bruna3.jpg"
+            ],
+            "historico": [
+            ],
+            "qtd_multas": 0,
+            "veiculo": "?"
+        },
+        {
+            "nome": "?",
+            "idade": 0,
+            "status": "?",
+            "endereco": "?", 
+            "fotos": [
+                "faces/jennifer1.jpg",
+                "faces/jennifer2.jpg",
+                "faces/jennifer3.jpg"
+            ],
+            "historico": [
+            ],
+            "qtd_multas": 0,
+            "veiculo": "?"
+        }                
+    ]
+}

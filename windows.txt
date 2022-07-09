@@ -1,0 +1,6 @@
+Conferir informações e arquivos da pasta "face_recog_dlib_file" para utilização do
+face_recognition utilizando Python no windows
+
+Obs: Arquivos para as versões 3.7 e 3.8 do Python
+
+Para um melhor tutorial, acessar -> https://www.geeksforgeeks.org/how-to-install-face-recognition-in-python-on-windows/
